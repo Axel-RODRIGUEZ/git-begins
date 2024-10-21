@@ -2,3 +2,5 @@ git add .
 git commit -m "Ecrivez le commentaire ici"
 git push
 git pull
+git branch "nomdelabranche"
+git checkout x
